@@ -1,0 +1,6 @@
+1. https://www.youtube.com/watch?v=FY8sXCsjvf8
+2. https://www.youtube.com/watch?v=pj4vA67olbU
+3. https://www.youtube.com/watch?v=c79C_S0E4IQ
+4. https://www.youtube.com/watch?v=HlkbeikH8cs
+5. https://www.youtube.com/watch?v=NuNWoibKpxI
+Para funcionar tem que instalar o node( git não suporta o tamanho)
